@@ -1,4 +1,4 @@
-// File: D:\financecalculator-v5-30calcs\financecalculator\app\page.tsx
+// File: D:\AllFinancecalculator\financecalculator\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
