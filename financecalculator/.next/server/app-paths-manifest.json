@@ -1,0 +1,5 @@
+{
+  "/calculators/finance/mutual-fund-calculator/page": "app/calculators/finance/mutual-fund-calculator/page.js",
+  "/page": "app/page.js",
+  "/calculators/finance/retirement-calculator/page": "app/calculators/finance/retirement-calculator/page.js"
+}
